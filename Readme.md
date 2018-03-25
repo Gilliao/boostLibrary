@@ -1,4 +1,3 @@
-"# Test" 
-"git config --global user.name 'gilliao'" 
-"git config --global user.name 'gilliao'" 
-"git config --global user.email 'chenmomaths@163.com'" 
+##This is a standard libraries##
+
+**Vc is a good support for version 1.3 of the boost library.**
